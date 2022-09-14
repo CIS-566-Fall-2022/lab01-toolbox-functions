@@ -2,9 +2,11 @@
 
 Team: Logan Cho (Me) And Rhuta Joshi
 
+1.
 https://www.shadertoy.com/view/stcBD7
 
-
+2.
+https://www.shadertoy.com/view/NttfDM#
 
 # Lab01: Toolbox Functions
 
