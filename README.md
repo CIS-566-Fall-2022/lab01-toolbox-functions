@@ -2,6 +2,7 @@
 Team members: Rhuta Joshi and Logan Cho
 1. Pulsing Flower: https://www.shadertoy.com/view/fttfWM
 2. Spinning Flower: https://www.shadertoy.com/view/NltBDM
+3. Custom Flower: https://www.shadertoy.com/view/ftdfW7
 
 # Lab01: Toolbox Functions
 
