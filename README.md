@@ -1,3 +1,9 @@
+# Leo (Haoquan Liang) Submission
+Teammates: Wayne Wu
+* Pulsing Flower: https://www.shadertoy.com/view/fldBW7
+* Spinning Flower: https://www.shadertoy.com/view/fttfD7
+* Custom Flower: https://www.shadertoy.com/view/7ltBWM
+
 # Lab01: Toolbox Functions
 
 Let's practice using some tool box functions! You may work with a partner for this one.
