@@ -1,3 +1,7 @@
+# Pulsing flower submission
+Team members: Rhuta Joshi and Logan Cho
+1. Pulsing Flower: https://www.shadertoy.com/view/fttfWM
+
 # Lab01: Toolbox Functions
 
 Let's practice using some tool box functions! You may work with a partner for this one.
