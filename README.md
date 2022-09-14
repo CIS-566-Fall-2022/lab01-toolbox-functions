@@ -1,3 +1,10 @@
+# Submission
+
+Name: Megan Reddy \
+Teammates: Joanna Fisch, Yuqi Zhang \
+Link to Shadertoy: https://www.shadertoy.com/view/slcfW7 \
+**NOTE:** All three solutions are in this Shadertoy file. Use the `#defines` at the top to toggle between them (`PULSING_FLOWER`, `SPINNING_FLOWER`, `CUSTOM_FLOWER`). 
+
 # Lab01: Toolbox Functions
 
 Let's practice using some tool box functions! You may work with a partner for this one.
