@@ -1,5 +1,9 @@
 # Lab01: Toolbox Functions
 
+Vivian Tung
+https://www.shadertoy.com/view/7lcfW7
+All three prompts are in this shadertoy; uncomment the lines in computeRadius() to see each flower.
+
 Let's practice using some tool box functions! You may work with a partner for this one.
 
 # Setup 
