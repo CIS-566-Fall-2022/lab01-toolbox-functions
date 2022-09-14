@@ -1,5 +1,8 @@
 # Lab01: Toolbox Functions
 
+[Link to my shadertoy]https://www.shadertoy.com/view/7tcfW7
+
+
 Let's practice using some tool box functions! You may work with a partner for this one.
 
 # Setup 
