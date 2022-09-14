@@ -1,3 +1,8 @@
+# my flowers
+team members: Elyssa
+
+To be honest I thought the three puzzles were different steps so I overwrote them as I went :/ but here is the link to my final flower! https://www.shadertoy.com/view/7l3BD7
+
 # Lab01: Toolbox Functions
 
 Let's practice using some tool box functions! You may work with a partner for this one.
