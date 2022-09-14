@@ -1,6 +1,7 @@
 # Pulsing flower submission
 Team members: Rhuta Joshi and Logan Cho
 1. Pulsing Flower: https://www.shadertoy.com/view/fttfWM
+2. Spinning Flower: https://www.shadertoy.com/view/NltBDM
 
 # Lab01: Toolbox Functions
 
