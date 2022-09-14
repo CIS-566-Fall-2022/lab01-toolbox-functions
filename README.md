@@ -1,5 +1,11 @@
 # Lab01: Toolbox Functions
 
+# Results
+
+Exercise 1: https://www.shadertoy.com/view/ftdBWM
+Exercise 2: https://www.shadertoy.com/view/7l3fD7
+Exercise 3: https://www.shadertoy.com/view/ftdfWM
+
 Let's practice using some tool box functions! You may work with a partner for this one.
 
 # Setup 
