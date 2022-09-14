@@ -1,13 +1,16 @@
 # Lab01: Toolbox Functions
 
+# Results
 ![](lab01.gif)
 
 [Link to my shadertoy](https://www.shadertoy.com/view/7tcfW7)
 Use pound defines to switch between the 3 flowers. I worked a bit with Megan Reddy.
 
-Let's practice using some tool box functions! You may work with a partner for this one.
+
 
 # Setup 
+
+Let's practice using some tool box functions! You may work with a partner for this one.
 
 Create a [Shadertoy account](https://www.shadertoy.com/). Either fork this shadertoy, or create a new shadertoy and copy the code from the [Flower Puzzle](https://www.shadertoy.com/view/NsVBzy).
 
