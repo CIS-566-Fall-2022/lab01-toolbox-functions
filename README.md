@@ -1,5 +1,7 @@
 # Lab01: Toolbox Functions
 
+![](lab01.gif)
+
 [Link to my shadertoy](https://www.shadertoy.com/view/7tcfW7)
 
 
