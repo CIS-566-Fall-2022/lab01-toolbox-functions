@@ -1,3 +1,11 @@
+# Submission
+
+Teammates: none
+
+- Pulsing flower: https://www.shadertoy.com/view/stcfW7
+- Spinning flower: https://www.shadertoy.com/view/sl3BD7
+- Custom flower: https://www.shadertoy.com/view/sl3fD7
+
 # Lab01: Toolbox Functions
 
 Let's practice using some tool box functions! You may work with a partner for this one.
