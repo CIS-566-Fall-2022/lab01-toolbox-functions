@@ -2,6 +2,15 @@
 
 Let's practice using some tool box functions! You may work with a partner for this one.
 
+# Result
+Team: Wenqing Wang, Dongying Liu
+
+Pulsing Flower:  https://www.shadertoy.com/view/7tdfD7
+
+Spinning Flower: https://www.shadertoy.com/view/sldfD7
+
+Custom Flower:   https://www.shadertoy.com/view/7ldfD7
+
 # Setup 
 
 Create a [Shadertoy account](https://www.shadertoy.com/). Either fork this shadertoy, or create a new shadertoy and copy the code from the [Flower Puzzle](https://www.shadertoy.com/view/NsVBzy).
