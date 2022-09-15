@@ -24,3 +24,7 @@ Do your best to replicate the following simple graphics:
 - In the README, include the names of both your team members
 - In the README, create a link to your shader toy solutions for these three prompts
 - Make sure all three of your shadertoys are set to UNLISTED or PUBLIC (so we can see them!)
+
+# Submission Content
+- Worked on by San Jewell alone
+- comlpeted 2.5 / 3 requirements: https://www.shadertoy.com/view/7tcBD7
